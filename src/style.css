@@ -1,0 +1,33 @@
+body {
+  font-family: Arial;
+  background-color: #f4f4f4;
+  text-align: center;
+}
+
+header {
+  background: #ff5722;
+  color: white;
+  padding: 20px;
+}
+
+.menu {
+  background: white;
+  width: 300px;
+  margin: auto;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.item {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+}
+
+button {
+  background: green;
+  color: white;
+  border: none;
+  padding: 6px 10px;
+  cursor: pointer;
+}
